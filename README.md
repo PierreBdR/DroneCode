@@ -1,4 +1,4 @@
 DroneCode
 =========
 
-Random code about Drone
+This project contains various tests to control a Parrot Drone.
